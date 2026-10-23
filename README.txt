@@ -120,5 +120,5 @@ OR in PowerShell:
      - All reports feature one-click "Export to CSV" for spreadsheet compatibility.
 
 ================================================================================
-Developed for HealthFirst Pharmacy | Academic Year 2026
+Developed for HealthFirst Pharmacy | By sean Komape
 ================================================================================
